@@ -2,9 +2,6 @@
 C module 2
 
 EX NO:2-a) Print numbers from 1 to n.
-Date:19/10/2025
-Name: VASANTH S
-Ref no: 25017538
 
 AIM:
 To write a C program to print numbers from 1 to n(a given number).
